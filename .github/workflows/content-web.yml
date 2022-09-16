@@ -7,7 +7,7 @@ on:
     - main
     paths:
     - 'content-web/**'
-     - web.deployment.yml
+    - web.deployment.yml
      - web.service.yml
 
   # Configure workflow to also support triggering manually
